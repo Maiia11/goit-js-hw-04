@@ -31,9 +31,6 @@ console.log(
 
 
 
-const calcAverageCalories = [{}]
-;
-console.log(calcAverageCalories.length);
 
 
 
